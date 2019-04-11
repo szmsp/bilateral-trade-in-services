@@ -16,7 +16,7 @@
 
 # For BEA country and service parameter values, see lookup dataframes output below
 
-# To run, replace "[key]" and "[path]" below, then review example call using the services_data function at bottom
+# To run, replace "[key]" and "[path]" below, then review example call using the services_call function at bottom
 
 ###############################################################################################################################
 
