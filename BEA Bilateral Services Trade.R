@@ -14,9 +14,9 @@
 # For BEA services trade category definitions:
 # https://www.bea.gov/sites/default/files/methodologies/ONE%20PDF%20-%20IEA%20Concepts%20Methods.pdf#page=50
 
-# For BEA country and service parameter values, see lookup dataframes below
+# For BEA country and service parameter values, see lookup dataframes output below
 
-# To run, replace "[key]" and "[path]" below
+# To run, replace "[key]" and "[path]" below, then review example call using the services_data function at bottom
 
 ###############################################################################################################################
 
