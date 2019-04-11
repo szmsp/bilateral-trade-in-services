@@ -7,4 +7,4 @@ To access the BEA API, first request an API key online: https://apps.bea.gov/API
 
 For help or to learn more about international services trade data available from the BEA API, please see the API guide: https://apps.bea.gov/api/_pdf/bea_web_service_api_user_guide.pdf
 
-FOr help or to learn more about the types of services BEA collects data on, please see the BEA estimation methods description: https://www.bea.gov/sites/default/files/methodologies/ONE%20PDF%20-%20IEA%20Concepts%20Methods.pdf#page=63
+For help or to learn more about the types of services BEA collects data on, please see the BEA estimation methods description: https://www.bea.gov/sites/default/files/methodologies/ONE%20PDF%20-%20IEA%20Concepts%20Methods.pdf#page=63
