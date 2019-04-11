@@ -12,7 +12,7 @@
 # https://apps.bea.gov/api/_pdf/bea_web_service_api_user_guide.pdf
 
 # For BEA services trade category definitions:
-# https://www.bea.gov/sites/default/files/methodologies/ONE%20PDF%20-%20IEA%20Concepts%20Methods.pdf#page=50
+# https://www.bea.gov/sites/default/files/methodologies/ONE%20PDF%20-%20IEA%20Concepts%20Methods.pdf#page=63
 
 # For BEA country and service parameter values, see lookup dataframes output below
 
